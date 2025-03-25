@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head> 
+        <meta charset="UTF-8">
+    </head>
+   <body>
+    <h2>Fábio Moises Serra Alves</h2>
+    <hr>
+    <p>I am 17 old.</p>
+    <p>I want to be a programmer and live in Canada.</p>
+
+    
+</html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+    <title>Capstone Fabio</title>    
+    <meta charset="UTF-8">
+    </head>
+    <body style="text-align: center ;">
+     <h1>Welcome to Fábio Portfolio</h1>
+     <img src="./photos/vegeta.jpg"> 
+     <hr> 
+     <h2>My favorite animes list</h2>
+        <li>Hajime no Ippo-10/10⭐</li>
+        <li>Viland Saga-10/10⭐</li>
+        <li>Dragon Ball-10/10⭐</li>
+        <li>Naruto-9/10</li>
+        <li>HunterXHunter-9/10</li>
+    <HR>
+        <a href="./photos/about_me.html">About Me</a>
+    </body>
+    
+
+    
+
+    
+
